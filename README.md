@@ -1,2 +1,2 @@
 # aplikasi_perpustakaan
-sebuah aplikasi perpuatakaan sederhana yang dibuat dengan penuh cinta
+sebuah aplikasi perpustakaan sederhana yang dibuat dengan penuh cinta
